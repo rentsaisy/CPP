@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// just for streak
 class Lights
 {
 public:             // Enumeration for class Lights
